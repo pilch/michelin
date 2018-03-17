@@ -1,0 +1,3 @@
+### Getting the data
+Michelin star data is available for the US by city on Wikipedia. Luckily there are only 4 cities in the US with Michelin star restaurants, so there's not much to scrape: [New York](https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_New_York_City), [Chicago](https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_Chicago), [Washington D.C.](https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_Washington,_D.C.), and the [Bay Area](https://en.wikipedia.org/wiki/List_of_Michelin_starred_restaurants_in_the_San_Francisco_Bay_Area). Unfortunately the Bay Area is in a slightly more annoying format (2018 is in a second table), so I just manually added those restuarants after scrapping pre-2018.
+
