@@ -1,0 +1,36 @@
+"city","year","onestar","twostars","threestars"
+"Chicago","2011",18,3,2
+"Chicago","2012",17,2,1
+"Chicago","2013",16,2,1
+"Chicago","2014",19,4,1
+"Chicago","2015",18,3,2
+"Chicago","2016",17,3,2
+"Chicago","2017",19,5,2
+"Chicago","2018",19,4,2
+"DC","2017",9,3,0
+"DC","2018",11,3,0
+"New York","2006",31,4,4
+"New York","2007",32,4,3
+"New York","2008",33,6,3
+"New York","2009",31,7,4
+"New York","2010",44,6,5
+"New York","2011",42,10,5
+"New York","2012",46,9,7
+"New York","2013",53,7,7
+"New York","2014",55,5,7
+"New York","2015",58,9,6
+"New York","2016",60,10,6
+"New York","2017",61,10,6
+"New York","2018",56,11,5
+"San Francisco","2007",21,4,1
+"San Francisco","2008",26,6,1
+"San Francisco","2009",24,6,1
+"San Francisco","2010",35,4,1
+"San Francisco","2011",39,3,2
+"San Francisco","2012",38,6,2
+"San Francisco","2013",34,6,2
+"San Francisco","2014",31,7,2
+"San Francisco","2015",30,6,4
+"San Francisco","2016",38,7,5
+"San Francisco","2017",41,7,6
+"San Francisco","2018",41,7,7
